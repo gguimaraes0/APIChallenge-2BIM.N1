@@ -8,7 +8,7 @@ Desafio criado em Linguagem de Programação IV, destinado para treinamento de u
 
 
 ## Documentação da API 📜
-
+https://documenter.getpostman.com/view/23415345/2s83YYFjkE
 
 ### API feita por meio de lambdas na API GATEWAY da AWS
 
