@@ -16,7 +16,6 @@ https://documenter.getpostman.com/view/23415345/2s83YYFjkE
 <br>
 
 ## 👨‍💻  Participantes
-- Caio Foramiglio Vieira   - 081190043 
 - Gustavo Santos Guimarães - 081180013
 - Lucas Frias Oliveira     - 081190009 
 - Matheus Faria Sarquis    - 081190031
